@@ -12,11 +12,19 @@
 
 Параметры подключения к базе MySQL указаны в dbconnect.php. 
 По умолчанию настроено: 
+
 $host => 'localhost'
+
 $username => 'root' 
+
 $passwd => ''
+
 $dbname => 'yii2basic'
+
 Требуется создать таблицу tst_gbook скриптом gbook.sql.
+
+Загрузить сожержимое репозитария в директорию tst корневого каталога WEB сервера.
+
 Главная страница приложения: 
 ~~~
 http://localhost/tst/index.php
