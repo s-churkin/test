@@ -29,3 +29,6 @@ $dbname => 'yii2basic'
 ~~~
 http://localhost/tst/index.php
 ~~~
+
+Аналогичное приложение в объектно-ориентированном стиле:
+https://github.com/s-churkin/test_ex/tree/brunch-first 
